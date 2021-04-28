@@ -1,4 +1,4 @@
 # Alien-vasion(little game writing by python)
-my first repository
+#### it's example of the a python book 
 
 
